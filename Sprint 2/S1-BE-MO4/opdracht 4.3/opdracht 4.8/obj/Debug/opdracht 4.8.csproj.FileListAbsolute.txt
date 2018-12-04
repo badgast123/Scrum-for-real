@@ -1,0 +1,6 @@
+D:\school\Scrum\Sprint 2\S1-BE-MO4\opdracht 4.3\opdracht 4.8\bin\Debug\opdracht 4.8.exe.config
+D:\school\Scrum\Sprint 2\S1-BE-MO4\opdracht 4.3\opdracht 4.8\bin\Debug\opdracht 4.8.exe
+D:\school\Scrum\Sprint 2\S1-BE-MO4\opdracht 4.3\opdracht 4.8\bin\Debug\opdracht 4.8.pdb
+D:\school\Scrum\Sprint 2\S1-BE-MO4\opdracht 4.3\opdracht 4.8\obj\Debug\opdracht 4.8.csproj.CoreCompileInputs.cache
+D:\school\Scrum\Sprint 2\S1-BE-MO4\opdracht 4.3\opdracht 4.8\obj\Debug\opdracht 4.8.exe
+D:\school\Scrum\Sprint 2\S1-BE-MO4\opdracht 4.3\opdracht 4.8\obj\Debug\opdracht 4.8.pdb

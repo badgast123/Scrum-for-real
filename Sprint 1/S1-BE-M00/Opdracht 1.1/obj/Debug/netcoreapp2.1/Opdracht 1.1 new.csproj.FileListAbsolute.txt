@@ -1,0 +1,22 @@
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.deps.json
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.runtimeconfig.json
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.runtimeconfig.dev.json
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.dll
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.pdb
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.csprojAssemblyReference.cache
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.csproj.CoreCompileInputs.cache
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.AssemblyInfoInputs.cache
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.AssemblyInfo.cs
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.dll
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\Opdracht 1.1 new\Opdracht 1.1 new\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.pdb
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.deps.json
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.runtimeconfig.json
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.runtimeconfig.dev.json
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.dll
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\bin\Debug\netcoreapp2.1\Opdracht 1.1 new.pdb
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.csprojAssemblyReference.cache
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.csproj.CoreCompileInputs.cache
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.AssemblyInfoInputs.cache
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.AssemblyInfo.cs
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.dll
+D:\school\Scrum\Visual Studio\Sprint-1\opdracht 1\S1-BE-N00\Opdracht 1.1\obj\Debug\netcoreapp2.1\Opdracht 1.1 new.pdb

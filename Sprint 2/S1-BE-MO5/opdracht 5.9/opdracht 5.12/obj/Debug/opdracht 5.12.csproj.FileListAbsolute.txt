@@ -1,0 +1,7 @@
+D:\school\Scrum\Sprint 2\S1-BE-MO5\opdracht 5.9\opdracht 5.12\bin\Debug\opdracht 5.12.exe.config
+D:\school\Scrum\Sprint 2\S1-BE-MO5\opdracht 5.9\opdracht 5.12\bin\Debug\opdracht 5.12.exe
+D:\school\Scrum\Sprint 2\S1-BE-MO5\opdracht 5.9\opdracht 5.12\bin\Debug\opdracht 5.12.pdb
+D:\school\Scrum\Sprint 2\S1-BE-MO5\opdracht 5.9\opdracht 5.12\obj\Debug\opdracht 5.12.csprojAssemblyReference.cache
+D:\school\Scrum\Sprint 2\S1-BE-MO5\opdracht 5.9\opdracht 5.12\obj\Debug\opdracht 5.12.csproj.CoreCompileInputs.cache
+D:\school\Scrum\Sprint 2\S1-BE-MO5\opdracht 5.9\opdracht 5.12\obj\Debug\opdracht 5.12.exe
+D:\school\Scrum\Sprint 2\S1-BE-MO5\opdracht 5.9\opdracht 5.12\obj\Debug\opdracht 5.12.pdb

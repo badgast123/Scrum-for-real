@@ -1,0 +1,12 @@
+#rood{
+    height: 250px;
+    background-color: red;
+}
+#wit{
+    height: 250px;
+}
+#blauw{
+    height: 250px;
+    color: blue;
+    background-color: blue;
+}

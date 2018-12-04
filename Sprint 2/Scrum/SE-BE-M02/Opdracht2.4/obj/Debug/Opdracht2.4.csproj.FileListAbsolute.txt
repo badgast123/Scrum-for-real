@@ -1,0 +1,7 @@
+D:\Data ROC\Scrum\Opdrachten\SE-BE-M02\Opdracht2.4\obj\Debug\Opdracht2.4.csprojAssemblyReference.cache
+D:\Data ROC\Scrum\Opdrachten\SE-BE-M02\Opdracht2.4\obj\Debug\Opdracht2.4.csproj.CoreCompileInputs.cache
+D:\Data ROC\Scrum\Opdrachten\SE-BE-M02\Opdracht2.4\bin\Debug\Opdracht2.4.exe.config
+D:\Data ROC\Scrum\Opdrachten\SE-BE-M02\Opdracht2.4\bin\Debug\Opdracht2.4.exe
+D:\Data ROC\Scrum\Opdrachten\SE-BE-M02\Opdracht2.4\bin\Debug\Opdracht2.4.pdb
+D:\Data ROC\Scrum\Opdrachten\SE-BE-M02\Opdracht2.4\obj\Debug\Opdracht2.4.exe
+D:\Data ROC\Scrum\Opdrachten\SE-BE-M02\Opdracht2.4\obj\Debug\Opdracht2.4.pdb

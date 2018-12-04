@@ -1,0 +1,6 @@
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\Opdracht 2.2\bin\Debug\Opdracht 2.2.exe.config
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\Opdracht 2.2\bin\Debug\Opdracht 2.2.exe
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\Opdracht 2.2\bin\Debug\Opdracht 2.2.pdb
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\Opdracht 2.2\obj\Debug\Opdracht 2.2.csproj.CoreCompileInputs.cache
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\Opdracht 2.2\obj\Debug\Opdracht 2.2.exe
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\Opdracht 2.2\obj\Debug\Opdracht 2.2.pdb

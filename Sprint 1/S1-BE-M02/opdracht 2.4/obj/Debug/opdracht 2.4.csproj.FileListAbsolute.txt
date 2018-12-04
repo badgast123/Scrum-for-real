@@ -1,0 +1,7 @@
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\opdracht 2.4\bin\Debug\opdracht 2.4.exe.config
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\opdracht 2.4\bin\Debug\opdracht 2.4.exe
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\opdracht 2.4\bin\Debug\opdracht 2.4.pdb
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\opdracht 2.4\obj\Debug\opdracht 2.4.csprojAssemblyReference.cache
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\opdracht 2.4\obj\Debug\opdracht 2.4.csproj.CoreCompileInputs.cache
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\opdracht 2.4\obj\Debug\opdracht 2.4.exe
+D:\school\Scrum\Sprint 1\S1-BE-M02\S1-BE-M03\opdracht 2.4\obj\Debug\opdracht 2.4.pdb

@@ -1,0 +1,7 @@
+D:\school\Scrum\Sprint 2\S1-BE-MO3\S1-BE-MO3\opdracht 3.10\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\school\Scrum\Sprint 2\S1-BE-MO3\S1-BE-MO3\opdracht 3.10\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\school\Scrum\Sprint 2\S1-BE-MO3\S1-BE-MO3\opdracht 3.10\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\school\Scrum\Sprint 2\S1-BE-MO3\S1-BE-MO3\opdracht 3.10\ConsoleApp1\obj\Debug\opdracht 3.10.csproj.CoreCompileInputs.cache
+D:\school\Scrum\Sprint 2\S1-BE-MO3\S1-BE-MO3\opdracht 3.10\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\school\Scrum\Sprint 2\S1-BE-MO3\S1-BE-MO3\opdracht 3.10\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\school\Scrum\Sprint 2\S1-BE-MO3\S1-BE-MO3\opdracht 3.10\ConsoleApp1\obj\Debug\opdracht 3.10.csprojAssemblyReference.cache
